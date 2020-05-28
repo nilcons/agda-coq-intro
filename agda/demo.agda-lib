@@ -1,0 +1,4 @@
+name: demo
+depend:
+  standard-library
+include: .

@@ -1,0 +1,4 @@
+name: solutions
+depend:
+  standard-library
+include: .
